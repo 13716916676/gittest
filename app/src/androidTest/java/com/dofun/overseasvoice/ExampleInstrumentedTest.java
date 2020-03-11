@@ -1,4 +1,4 @@
-package com.dofun.gittest;
+package com.dofun.overseasvoice;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.dofun.gittest", appContext.getPackageName());
+        assertEquals("com.dofun.overseasvoice", appContext.getPackageName());
     }
 }

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.dofun.gittest">
+    package="com.dofun.overseasvoice">
 
     <application
         android:allowBackup="true"

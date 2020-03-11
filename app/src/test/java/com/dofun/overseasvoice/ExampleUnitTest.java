@@ -1,4 +1,4 @@
-package com.dofun.gittest;
+package com.dofun.overseasvoice;
 
 import org.junit.Test;
 

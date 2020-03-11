@@ -1,2 +1,2 @@
-rootProject.name='gittest'
-include ':app'
+rootProject.name='overseasvoice'
+include ':hotwords'
